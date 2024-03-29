@@ -1,0 +1,21 @@
+{
+  "name": "console-app-atm",
+  "version": "1.0.2",
+  "description": "User console based ATM",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noman",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
